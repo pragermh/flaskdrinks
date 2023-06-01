@@ -23,7 +23,7 @@ data = {
 
 @app.route("/")
 def index():
-    return "Welcome To My Drinks API"
+    return "Welcome To Maria's Drinks API"
 
 
 @app.route('/drinks')
